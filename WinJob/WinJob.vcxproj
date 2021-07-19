@@ -160,7 +160,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
-    <None Include="src\cpp.hint" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\job.h" />
