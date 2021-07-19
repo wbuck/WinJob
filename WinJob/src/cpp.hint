@@ -1,0 +1,2 @@
+#define WINJOB_API __declspec(dllexport)
+#define WINJOB_API __declspec(dllimport)
